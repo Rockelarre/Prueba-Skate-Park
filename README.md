@@ -3,7 +3,7 @@
 ### Módulo 8
 ### Framework Express
 
-## Unidad: 3. Autenticación con JWT
+## Unidad: 5. Autenticación con JWT
 
 #### Contenidos Desarrollados:
 
