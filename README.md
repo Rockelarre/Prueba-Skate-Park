@@ -7,7 +7,7 @@
 
 #### Contenidos Desarrollados:
 
-- Express
+- Express.js
 
 - Handlebars
 
